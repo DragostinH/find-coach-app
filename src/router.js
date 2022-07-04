@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import CoachesList from './components/pages/CoachesList.vue';
-import RequestsList from './components/pages/RequestsList.vue';
+import CoachesList from './components/pages/coaches/CoachesList.vue';
+
+import RequestsList from './components/pages/requests/RequestsList.vue';
 
 const router = createRouter({
     history: createWebHistory(),

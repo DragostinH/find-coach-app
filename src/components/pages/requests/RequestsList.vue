@@ -1,5 +1,5 @@
 <script>
-import BaseContainer from '../UI/BaseContainer.vue';
+import BaseContainer from '../../UI/BaseContainer.vue';
 export default {
     components: { BaseContainer }
 }

@@ -1,7 +1,7 @@
 <script>
-import BaseContainer from "../UI/BaseContainer.vue";
+import BaseContainer from "../../UI/BaseContainer.vue";
 import uniqid from "uniqid";
-import BaseButton from "../UI/BaseButton.vue";
+import BaseButton from "../../UI/BaseButton.vue";
 uniqid;
 
 export default {

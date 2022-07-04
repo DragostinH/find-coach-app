@@ -1,5 +1,5 @@
 <script>
-import BaseContainer from "../UI/BaseContainer.vue";
+import BaseContainer from "@/components/UI/BaseContainer.vue";
 import CoachCard from "./CoachCard.vue";
 import CoachFilterForm from "./CoachFilterForm.vue";
 export default {
