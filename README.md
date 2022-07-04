@@ -1,5 +1,6 @@
 # find-coach-app
-
+Final app from the Udemy course [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+Live link -> 
 ## Project setup
 ```
 npm install
